@@ -1,0 +1,17 @@
+body {
+    background-color: #F3F5F0;
+}
+
+#navbarArea {
+    background-color: #00416B;
+    height: 100px;
+}
+
+#navLink {
+    color: rgba(255, 251, 251, 0.432);
+}
+
+#iconsNavbar {
+    color: rgba(255, 251, 251, 0.432);
+}
+

@@ -1,0 +1,11 @@
+.date {
+    font-style: normal;
+    margin-right: 15px;
+    font-weight: bold;
+}
+
+.hour {
+    font-style: normal;
+    color: rgba(0, 0, 0, 0.363);
+    font-weight: 500;
+}
